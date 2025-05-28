@@ -2,6 +2,6 @@
 #include <iostream>
 
 int main() {
-    //mensaje de prueba
+    //mensaje de prueba..
     return 0;
 }
